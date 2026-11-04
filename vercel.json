@@ -1,8 +1,7 @@
 {
-  "function": {
-    "api/scanner.js":{
-      "maxDuraction": 30
+  "functions": {
+    "api/scanner.js": {
+      "maxDuration": 30
     }
   }
 }
-
